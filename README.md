@@ -3,7 +3,7 @@
 
 \<p align="center">
 &#x20; \<strong>Detect Phishing. Browse Safely. Protect Your Privacy.\</strong>
-\</p>
+\</p>  
 
 \<p align="center">
 &#x20; \<img src="[https://img.shields.io/badge/Chrome-Manifest%20V3-blue?logo=googlechrome](https://img.shields.io/badge/Chrome-Manifest%20V3-blue?logo=googlechrome)" alt="Chrome">
