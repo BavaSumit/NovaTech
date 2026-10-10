@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛡️ PhishGuard AI — Adaptive Phishing Detection
 
 \<p align="center">
@@ -146,6 +146,4 @@ MIT License — see the `LICENSE` file for details.
 \<p align="center">
 &#x20; \<strong>PhishGuard AI — Smarter Detection. Safer Browsing.\</strong>
 \</p>
-=======
 
->>>>>>> origin/main
